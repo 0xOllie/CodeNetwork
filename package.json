@@ -1,0 +1,24 @@
+{
+  "name": "codenetwork",
+  "version": "1.0.0",
+  "description": "A NodeJS app for taking a picture of a website and saving it in S3.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./node_modules/nodemon/bin/nodemon.js src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverjcollins/CodeNetwork.git"
+  },
+  "author": "Oliver Collins",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/oliverjcollins/CodeNetwork/issues"
+  },
+  "homepage": "https://github.com/oliverjcollins/CodeNetwork#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "puppeteer": "^1.19.0"
+  }
+}
