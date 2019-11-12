@@ -8,4 +8,4 @@ app.use(bodyParser.urlencoded({ extended: true }))
 
 require('./routes')(app)
 
-app.listen(config.port, () => console.log('\n Hello Code Network, server ready on port: ' + config.port + '\n'))
+app.listen(config.port, () => console.log('\n Hello Arkose Labs, server ready on port: ' + config.port + '\n'))
