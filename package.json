@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/oliverjcollins/CodeNetwork#readme",
   "dependencies": {
-    "aws-sdk": "^2.503.0",
+    "aws-sdk": "^2.814.0",
     "express": "^4.17.1",
     "nodemon": "^1.19.1",
     "puppeteer": "^1.19.0"
